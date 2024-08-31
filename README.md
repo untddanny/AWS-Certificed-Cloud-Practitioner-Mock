@@ -1,8 +1,8 @@
-# Exam Mock Repository
+# AWS Cloud Practitioner 
 
 Welcome to the Exam Mock Repository!
 
-This repository contains a collection of mock exam questions in Markdown format. These mocks are designed to help you prepare for your exams by providing practice questions and answers.
+This repository contains a collection of mock exam questions for AWS Cloud Practitioner . These mocks are designed to help you prepare for your exams by providing practice questions and answers.
 
 You can browse through the different mock exams by navigating the files in this repository.
 
