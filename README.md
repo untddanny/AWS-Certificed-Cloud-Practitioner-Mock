@@ -22,7 +22,7 @@ Thank you for visiting and using this repository. If you find it helpful, please
 
 Feel free to connect with me on LinkedIn:
 
-<a href="[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/nabeel-wagle-17b953205/)" target="_blank">
+<a href="https://www.linkedin.com/in/nabeel-wagle-17b953205/" target="_blank">
     <img src="Linkedln.png" alt="Connect with me on LinkedIn" style="width: 100px; height: auto;">
 </a>
 
